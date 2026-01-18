@@ -1,0 +1,129 @@
+{
+    "radio_url": "https://radyo34.radyotvonline.net/radyo34",
+    "start_on_boot": true,
+    "radio_stations": [
+        {
+            "name": "Anatolian Radyo",
+            "url": "https://www.youtube.com/watch?v=dubxvVmHOu0"
+        },
+        {
+            "name": "Best FM",
+            "url": "https://cast.tunzilla.com/http://bestfm64k.radyotvonline.net/bestfmaac"
+        },
+        {
+            "name": "Joy FM",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FMAAC.aac"
+        },
+        {
+            "name": "Kral Fm",
+            "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8"
+        },
+        {
+            "name": "Metro FM",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM128AAC.aac"
+        },
+        {
+            "name": "Power T\u00fcrk",
+            "url": "https://live.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;stream.mp3"
+        },
+        {
+            "name": "Radyo 34",
+            "url": "https://radyo34.radyotvonline.net/radyo34"
+        },
+        {
+            "name": "Radyo 45'lik",
+            "url": "https://stream.radyo45lik.com:4545/stream"
+        },
+        {
+            "name": "Radyo Alaturka",
+            "url": "https://yayin.jumboserver.net:9100/stream?/;stream.mp3"
+        },
+        {
+            "name": "Radyo Avrasya T\u00fcrk",
+            "url": "https://sslyayin.netyayin.net:10909/;/;stream.mp3"
+        },
+        {
+            "name": "Radyo D",
+            "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
+        },
+        {
+            "name": "Retro T\u00fcrk",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK128AAC.aac"
+        },
+        {
+            "name": "Show Radyo",
+            "url": "https://showradyo.radyotvonline.net/showradyoaac?/;stream.mp3"
+        },
+        {
+            "name": "S\u00fcper FM",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac"
+        },
+        {
+            "name": "Turkuvaz Radyo",
+            "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
+        },
+        {
+            "name": "T\u00fcrk\u00fclerle T\u00fcrkiye",
+            "url": "https://ssl4.radyotvonline.com/radyohome/turkulerleturkiye.stream_aac/playlist.m3u8"
+        }
+    ],
+    "music_source": "radio",
+    "company_name": "MEM Zill Program\u0131",
+    "volume_bell": 100,
+    "volume_music": 51,
+    "volume_manual": 50,
+    "volume_system": 5,
+    "skipped_holidays": [
+        "2026-05-14",
+        "2026-08-01",
+        "2026-04-03",
+        "2026-04-02",
+        "2026-05-01",
+        "2026-05-19",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-07-15",
+        "2026-05-30",
+        "2026-08-30",
+        "2026-10-29",
+        "2026-01-02",
+        "2026-03-03",
+        "2026-04-10",
+        "2026-04-11",
+        "2026-04-12",
+        "2026-04-13",
+        "2026-05-06",
+        "2026-05-24",
+        "2026-05-25",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-12-24",
+        "2026-09-22",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-28",
+        "2026-01-01",
+        "2026-12-16",
+        "2026-09-24",
+        "2026-08-10",
+        "2026-08-09",
+        "2026-06-16",
+        "2026-04-27",
+        "2026-04-06",
+        "2026-04-23",
+        "2026-03-22",
+        "2026-03-21",
+        "2026-03-20"
+    ],
+    "holiday_country": "TR",
+    "restore_manual_playback": false,
+    "streaming": {
+        "enabled": false,
+        "port": 5959
+    },
+    "app_autostart_enabled": true,
+    "tts_engine": "edge-tr-emel",
+    "audio_device_id": null,
+    "frontend_auto_open": true
+}

@@ -1,0 +1,623 @@
+[
+    {
+        "dayOfWeek": 0,
+        "enabled": false,
+        "activities": [
+            {
+                "id": "1_1_1768235605",
+                "name": "1. Aktivite",
+                "startTime": "08:00",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "10:00",
+                "endSoundId": "Melodi1.mp3",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241463641",
+                        "time": "08:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_2_1768235605",
+                "name": "2. Aktivite",
+                "startTime": "10:15",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "12:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "\u00d6\u011fle yeme\u011fi aras\u0131 ba\u015flam\u0131\u015ft\u0131r. T\u00fcm \u00e7al\u0131\u015fma arkada\u015flar\u0131m\u0131za afiyet olsun, iyi dinlenmeler..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241493270",
+                        "time": "10:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_3_1768235605",
+                "name": "3. Aktivite",
+                "startTime": "13:00",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "15:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241524261",
+                        "time": "13:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_4_1768235605",
+                "name": "4. Aktivite",
+                "startTime": "15:15",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "17:30",
+                "endSoundId": "default",
+                "endAnnouncementId": "Bug\u00fcnl\u00fck mesai s\u00fcremiz tamamlanm\u0131\u015ft\u0131r. De\u011ferli emekleriniz i\u00e7in te\u015fekk\u00fcr eder; sevdiklerinizle birlikte huzurlu bir ak\u015fam ge\u00e7irmenizi dileriz. \u0130yi ak\u015famlar..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241528616",
+                        "time": "15:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768241575209",
+                        "time": "17:15",
+                        "soundId": "Daha huzurlu bir ortam i\u00e7in l\u00fctfen \u00e7al\u0131\u015fma alanlar\u0131m\u0131z\u0131 d\u00fczenli tutal\u0131m. G\u00f6sterdi\u011finiz \u00f6zen i\u00e7in te\u015fekk\u00fcr ederiz.mp3",
+                        "enabled": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 1,
+        "enabled": true,
+        "activities": [
+            {
+                "id": "1_1_1768235605",
+                "name": "1. Aktivite",
+                "startTime": "08:00",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "10:00",
+                "endSoundId": "Melodi1.mp3",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241463641",
+                        "time": "08:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_2_1768235605",
+                "name": "2. Aktivite",
+                "startTime": "10:15",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "12:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "\u00d6\u011fle yeme\u011fi aras\u0131 ba\u015flam\u0131\u015ft\u0131r. T\u00fcm \u00e7al\u0131\u015fma arkada\u015flar\u0131m\u0131za afiyet olsun, iyi dinlenmeler..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241493270",
+                        "time": "10:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_3_1768235605",
+                "name": "3. Aktivite",
+                "startTime": "13:00",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "15:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241524261",
+                        "time": "13:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768563445242",
+                        "time": "14:40",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_4_1768235605",
+                "name": "4. Aktivite",
+                "startTime": "15:15",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "17:30",
+                "endSoundId": "default",
+                "endAnnouncementId": "Bug\u00fcnl\u00fck mesai s\u00fcremiz tamamlanm\u0131\u015ft\u0131r. De\u011ferli emekleriniz i\u00e7in te\u015fekk\u00fcr eder; sevdiklerinizle birlikte huzurlu bir ak\u015fam ge\u00e7irmenizi dileriz. \u0130yi ak\u015famlar..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241528616",
+                        "time": "15:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768241575209",
+                        "time": "17:15",
+                        "soundId": "Daha huzurlu bir ortam i\u00e7in l\u00fctfen \u00e7al\u0131\u015fma alanlar\u0131m\u0131z\u0131 d\u00fczenli tutal\u0131m. G\u00f6sterdi\u011finiz \u00f6zen i\u00e7in te\u015fekk\u00fcr ederiz.mp3",
+                        "enabled": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 2,
+        "enabled": true,
+        "activities": [
+            {
+                "id": "1_1_1768235605",
+                "name": "1. Aktivite",
+                "startTime": "08:00",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "10:00",
+                "endSoundId": "Melodi1.mp3",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241463641",
+                        "time": "08:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_2_1768235605",
+                "name": "2. Aktivite",
+                "startTime": "10:15",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "12:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "\u00d6\u011fle yeme\u011fi aras\u0131 ba\u015flam\u0131\u015ft\u0131r. T\u00fcm \u00e7al\u0131\u015fma arkada\u015flar\u0131m\u0131za afiyet olsun, iyi dinlenmeler..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241493270",
+                        "time": "10:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_3_1768235605",
+                "name": "3. Aktivite",
+                "startTime": "13:00",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "15:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241524261",
+                        "time": "13:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768563445242",
+                        "time": "14:40",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_4_1768235605",
+                "name": "4. Aktivite",
+                "startTime": "15:15",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "17:30",
+                "endSoundId": "default",
+                "endAnnouncementId": "Bug\u00fcnl\u00fck mesai s\u00fcremiz tamamlanm\u0131\u015ft\u0131r. De\u011ferli emekleriniz i\u00e7in te\u015fekk\u00fcr eder; sevdiklerinizle birlikte huzurlu bir ak\u015fam ge\u00e7irmenizi dileriz. \u0130yi ak\u015famlar..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241528616",
+                        "time": "15:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768241575209",
+                        "time": "17:15",
+                        "soundId": "Daha huzurlu bir ortam i\u00e7in l\u00fctfen \u00e7al\u0131\u015fma alanlar\u0131m\u0131z\u0131 d\u00fczenli tutal\u0131m. G\u00f6sterdi\u011finiz \u00f6zen i\u00e7in te\u015fekk\u00fcr ederiz.mp3",
+                        "enabled": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 3,
+        "enabled": true,
+        "activities": [
+            {
+                "id": "1_1_1768235605",
+                "name": "1. Aktivite",
+                "startTime": "08:00",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "10:00",
+                "endSoundId": "Melodi1.mp3",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241463641",
+                        "time": "08:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_2_1768235605",
+                "name": "2. Aktivite",
+                "startTime": "10:15",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "12:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "\u00d6\u011fle yeme\u011fi aras\u0131 ba\u015flam\u0131\u015ft\u0131r. T\u00fcm \u00e7al\u0131\u015fma arkada\u015flar\u0131m\u0131za afiyet olsun, iyi dinlenmeler..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241493270",
+                        "time": "10:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_3_1768235605",
+                "name": "3. Aktivite",
+                "startTime": "13:00",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "15:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241524261",
+                        "time": "13:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768563445242",
+                        "time": "14:40",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_4_1768235605",
+                "name": "4. Aktivite",
+                "startTime": "15:15",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "17:30",
+                "endSoundId": "default",
+                "endAnnouncementId": "Bug\u00fcnl\u00fck mesai s\u00fcremiz tamamlanm\u0131\u015ft\u0131r. De\u011ferli emekleriniz i\u00e7in te\u015fekk\u00fcr eder; sevdiklerinizle birlikte huzurlu bir ak\u015fam ge\u00e7irmenizi dileriz. \u0130yi ak\u015famlar..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241528616",
+                        "time": "15:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768241575209",
+                        "time": "17:15",
+                        "soundId": "Daha huzurlu bir ortam i\u00e7in l\u00fctfen \u00e7al\u0131\u015fma alanlar\u0131m\u0131z\u0131 d\u00fczenli tutal\u0131m. G\u00f6sterdi\u011finiz \u00f6zen i\u00e7in te\u015fekk\u00fcr ederiz.mp3",
+                        "enabled": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 4,
+        "enabled": true,
+        "activities": [
+            {
+                "id": "1_1_1768235605",
+                "name": "1. Aktivite",
+                "startTime": "08:00",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "10:00",
+                "endSoundId": "Melodi1.mp3",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241463641",
+                        "time": "08:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_2_1768235605",
+                "name": "2. Aktivite",
+                "startTime": "10:15",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "12:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "\u00d6\u011fle yeme\u011fi aras\u0131 ba\u015flam\u0131\u015ft\u0131r. T\u00fcm \u00e7al\u0131\u015fma arkada\u015flar\u0131m\u0131za afiyet olsun, iyi dinlenmeler..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241493270",
+                        "time": "10:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_3_1768235605",
+                "name": "3. Aktivite",
+                "startTime": "13:00",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "15:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241524261",
+                        "time": "13:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768563445242",
+                        "time": "14:40",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_4_1768235605",
+                "name": "4. Aktivite",
+                "startTime": "15:15",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "17:30",
+                "endSoundId": "default",
+                "endAnnouncementId": "Bug\u00fcnl\u00fck mesai s\u00fcremiz tamamlanm\u0131\u015ft\u0131r. De\u011ferli emekleriniz i\u00e7in te\u015fekk\u00fcr eder; sevdiklerinizle birlikte huzurlu bir ak\u015fam ge\u00e7irmenizi dileriz. \u0130yi ak\u015famlar..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241528616",
+                        "time": "15:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768241575209",
+                        "time": "17:15",
+                        "soundId": "Daha huzurlu bir ortam i\u00e7in l\u00fctfen \u00e7al\u0131\u015fma alanlar\u0131m\u0131z\u0131 d\u00fczenli tutal\u0131m. G\u00f6sterdi\u011finiz \u00f6zen i\u00e7in te\u015fekk\u00fcr ederiz.mp3",
+                        "enabled": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 5,
+        "enabled": true,
+        "activities": [
+            {
+                "id": "1_1_1768235605",
+                "name": "1. Aktivite",
+                "startTime": "08:00",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "10:00",
+                "endSoundId": "Melodi1.mp3",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241463641",
+                        "time": "08:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_2_1768235605",
+                "name": "2. Aktivite",
+                "startTime": "10:15",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "12:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "\u00d6\u011fle yeme\u011fi aras\u0131 ba\u015flam\u0131\u015ft\u0131r. T\u00fcm \u00e7al\u0131\u015fma arkada\u015flar\u0131m\u0131za afiyet olsun, iyi dinlenmeler..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241493270",
+                        "time": "10:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_3_1768235605",
+                "name": "3. Aktivite",
+                "startTime": "13:00",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "15:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241524261",
+                        "time": "13:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768563445242",
+                        "time": "14:40",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_4_1768235605",
+                "name": "4. Aktivite",
+                "startTime": "15:15",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "17:30",
+                "endSoundId": "default",
+                "endAnnouncementId": "Bug\u00fcnl\u00fck mesai s\u00fcremiz tamamlanm\u0131\u015ft\u0131r. De\u011ferli emekleriniz i\u00e7in te\u015fekk\u00fcr eder; sevdiklerinizle birlikte huzurlu bir ak\u015fam ge\u00e7irmenizi dileriz. \u0130yi ak\u015famlar..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241528616",
+                        "time": "15:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    },
+                    {
+                        "id": "1768241575209",
+                        "time": "17:15",
+                        "soundId": "Daha huzurlu bir ortam i\u00e7in l\u00fctfen \u00e7al\u0131\u015fma alanlar\u0131m\u0131z\u0131 d\u00fczenli tutal\u0131m. G\u00f6sterdi\u011finiz \u00f6zen i\u00e7in te\u015fekk\u00fcr ederiz.mp3",
+                        "enabled": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dayOfWeek": 6,
+        "enabled": true,
+        "activities": [
+            {
+                "id": "1_1_1768235605",
+                "name": "1. Aktivite",
+                "startTime": "08:00",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "10:00",
+                "endSoundId": "Melodi1.mp3",
+                "endAnnouncementId": "K\u0131sa bir mola zaman\u0131. \u00c7ay ve kahve e\u015fli\u011finde g\u00fczel bir dinlenme dileriz..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241463641",
+                        "time": "08:10",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_2_1768235605",
+                "name": "2. Aktivite",
+                "startTime": "10:15",
+                "startSoundId": "Melodi1.mp3",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "12:00",
+                "endSoundId": "default",
+                "endAnnouncementId": "\u00d6\u011fle yeme\u011fi aras\u0131 ba\u015flam\u0131\u015ft\u0131r. T\u00fcm \u00e7al\u0131\u015fma arkada\u015flar\u0131m\u0131za afiyet olsun, iyi dinlenmeler..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768241493270",
+                        "time": "10:25",
+                        "soundId": "isg1.mp3",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "1_3_1768235605",
+                "name": "3. Aktivite",
+                "startTime": "13:00",
+                "startSoundId": "default",
+                "startAnnouncementId": "isg1.mp3",
+                "endTime": "14:45",
+                "endSoundId": "default",
+                "endAnnouncementId": "Bug\u00fcnl\u00fck mesai s\u00fcremiz tamamlanm\u0131\u015ft\u0131r. De\u011ferli emekleriniz i\u00e7in te\u015fekk\u00fcr eder; sevdiklerinizle birlikte huzurlu bir ak\u015fam ge\u00e7irmenizi dileriz. \u0130yi ak\u015famlar..mp3",
+                "playMusic": true,
+                "interimAnnouncements": [
+                    {
+                        "id": "1768563487213",
+                        "time": "14:30",
+                        "soundId": "Daha huzurlu bir ortam i\u00e7in l\u00fctfen \u00e7al\u0131\u015fma alanlar\u0131m\u0131z\u0131 d\u00fczenli tutal\u0131m. G\u00f6sterdi\u011finiz \u00f6zen i\u00e7in te\u015fekk\u00fcr ederiz.mp3",
+                        "enabled": true
+                    }
+                ]
+            }
+        ]
+    }
+]

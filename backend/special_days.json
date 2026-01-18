@@ -1,0 +1,428 @@
+{
+    "config": {
+        "enabled": true,
+        "announcement_times": [
+            "09:45",
+            "14:45"
+        ],
+        "template": "Bug\u00fcn {name} arkada\u015f\u0131m\u0131z\u0131n do\u011fum g\u00fcn\u00fc. Do\u011fum g\u00fcn\u00fcn\u00fc kutlar, sevdikleriyle mutlu, sa\u011fl\u0131kl\u0131 bir y\u0131l dileriz."
+    },
+    "people": [
+        {
+            "name": "EMRE YURTSEVEN",
+            "date": "1994-01-01"
+        },
+        {
+            "name": "EVREN KASAP",
+            "date": "1981-01-01"
+        },
+        {
+            "name": "\u0130DR\u0130S ZOR",
+            "date": "1992-01-01"
+        },
+        {
+            "name": "MAC\u0130T TEKKUZGUN",
+            "date": "1980-01-01"
+        },
+        {
+            "name": "MEHMET BORANO\u011eLU",
+            "date": "1972-01-01"
+        },
+        {
+            "name": "MEHMET YANAR",
+            "date": "1990-01-01"
+        },
+        {
+            "name": "MEHMET YILMAZ",
+            "date": "1993-01-03"
+        },
+        {
+            "name": "EMRE AVCI",
+            "date": "1997-01-12"
+        },
+        {
+            "name": "G\u00d6KSEL AKDEN\u0130Z",
+            "date": "1981-01-13"
+        },
+        {
+            "name": "H\u00dcSEY\u0130N \u00dcM\u0130T SEV\u0130M",
+            "date": "1974-01-13"
+        },
+        {
+            "name": "O\u011eUZ ALTUNTA\u015e",
+            "date": "1989-01-14"
+        },
+        {
+            "name": "\u00c7ET\u0130N ARSLAN",
+            "date": "1977-01-17"
+        },
+        {
+            "name": "\u0130SMA\u0130L AYDIN",
+            "date": "1982-01-24"
+        },
+        {
+            "name": "HASAN SA\u011eIRBAY",
+            "date": "1973-02-01"
+        },
+        {
+            "name": "\u0130LKER \u00c7A\u011eAN",
+            "date": "1995-02-02"
+        },
+        {
+            "name": "METEHAN KURT",
+            "date": "2006-02-04"
+        },
+        {
+            "name": "\u00d6MER YILMAZ",
+            "date": "1990-02-07"
+        },
+        {
+            "name": "MURAT G\u00dcNE\u015e",
+            "date": "1997-02-17"
+        },
+        {
+            "name": "SEZG\u0130N BAKAN",
+            "date": "1984-02-24"
+        },
+        {
+            "name": "SONER DUMAN",
+            "date": "1981-03-01"
+        },
+        {
+            "name": "TURAN YILDIZ",
+            "date": "1990-03-01"
+        },
+        {
+            "name": "MUSTAFA KARABACAK",
+            "date": "1994-03-03"
+        },
+        {
+            "name": "MUTLU \u00d6ZCAN",
+            "date": "1969-03-07"
+        },
+        {
+            "name": "RIFAT KARAKAYA",
+            "date": "1974-03-12"
+        },
+        {
+            "name": "MEHMET M\u0130HR\u0130 BER\u00c7\u0130N",
+            "date": "2024-03-13"
+        },
+        {
+            "name": "VEYSEL DEM\u0130RB\u0130LEK",
+            "date": "1989-03-20"
+        },
+        {
+            "name": "FUAT AYG\u00dcN",
+            "date": "1980-04-04"
+        },
+        {
+            "name": "EMRE YANIK",
+            "date": "1983-04-05"
+        },
+        {
+            "name": "\u00d6ZKAN SOYSAL",
+            "date": "1985-04-08"
+        },
+        {
+            "name": "BURAK BALO\u011eLU",
+            "date": "1985-04-11"
+        },
+        {
+            "name": "\u0130LHAN AKSOY",
+            "date": "1983-04-13"
+        },
+        {
+            "name": "\u00d6ZCAN AKG\u00dcNL\u00dc",
+            "date": "1980-04-13"
+        },
+        {
+            "name": "BESTE DUMAN",
+            "date": "1997-04-20"
+        },
+        {
+            "name": "EGE KAYA",
+            "date": "1997-04-25"
+        },
+        {
+            "name": "AL\u0130M KOCA",
+            "date": "1984-05-01"
+        },
+        {
+            "name": "SERKAN \u00dcNVER",
+            "date": "1997-05-09"
+        },
+        {
+            "name": "MUSTAFA ACAR",
+            "date": "1982-05-12"
+        },
+        {
+            "name": "ERKAN BORUCU",
+            "date": "1977-05-16"
+        },
+        {
+            "name": "OR\u00c7UN \u015eEN",
+            "date": "1981-05-25"
+        },
+        {
+            "name": "AHMET G\u00dcND\u00dcZ",
+            "date": "1985-05-28"
+        },
+        {
+            "name": "\u0130SRAF\u0130L \u015eAH\u0130N",
+            "date": "1981-06-01"
+        },
+        {
+            "name": "MET\u0130N T\u00dcRK",
+            "date": "1997-06-01"
+        },
+        {
+            "name": "MUZAFFER KALAY",
+            "date": "1976-06-01"
+        },
+        {
+            "name": "TUNCAY Y\u00dcCEL",
+            "date": "1973-06-02"
+        },
+        {
+            "name": "MEHMET ERDO\u011eAN",
+            "date": "1998-06-05"
+        },
+        {
+            "name": "BATUHAN AKTA\u015e",
+            "date": "1996-06-10"
+        },
+        {
+            "name": "BATUHAN BARI\u015e",
+            "date": "1978-06-11"
+        },
+        {
+            "name": "SEL\u00c7UK YAKIN",
+            "date": "1983-06-11"
+        },
+        {
+            "name": "ERD\u0130 YA\u011eMURCA",
+            "date": "1992-06-15"
+        },
+        {
+            "name": "RAMAZAN G\u00dcNEY YANAR",
+            "date": "1984-06-15"
+        },
+        {
+            "name": "AHMET BERAT TOPALLAR",
+            "date": "1990-06-17"
+        },
+        {
+            "name": "SEBAHATT\u0130N YILDIRIM",
+            "date": "1971-06-18"
+        },
+        {
+            "name": "RAMAZAN BULUT",
+            "date": "1982-06-20"
+        },
+        {
+            "name": "SEZG\u0130N EMEK",
+            "date": "1988-06-23"
+        },
+        {
+            "name": "HARUN KOYUN",
+            "date": "1999-06-28"
+        },
+        {
+            "name": "TARIK ULUSOY",
+            "date": "1976-06-29"
+        },
+        {
+            "name": "HAKAN ACAR",
+            "date": "1991-07-01"
+        },
+        {
+            "name": "N\u0130YAZ\u0130 S\u00d6NMEZ",
+            "date": "1984-07-01"
+        },
+        {
+            "name": "C\u0130HANG\u0130R DEDE",
+            "date": "1977-07-06"
+        },
+        {
+            "name": "RAMAZAN DEVEC\u0130",
+            "date": "1989-07-07"
+        },
+        {
+            "name": "ERDAL BA\u011eIRAN",
+            "date": "1973-07-14"
+        },
+        {
+            "name": "OKAN TEKBA\u015e",
+            "date": "1978-07-15"
+        },
+        {
+            "name": "MUHAMMED SOLAK",
+            "date": "1997-07-19"
+        },
+        {
+            "name": "\u00d6MER KESK\u0130N",
+            "date": "1996-07-19"
+        },
+        {
+            "name": "AL\u0130 KEMAL MER\u0130\u00c7",
+            "date": "1985-07-20"
+        },
+        {
+            "name": "HAT\u0130CE KARA",
+            "date": "1985-07-20"
+        },
+        {
+            "name": "EM\u0130R G\u00dcLER",
+            "date": "2003-07-21"
+        },
+        {
+            "name": "CENG\u0130Z AKBAY",
+            "date": "1994-07-25"
+        },
+        {
+            "name": "\u015eAH\u0130N A\u015e\u00c7I",
+            "date": "1987-07-25"
+        },
+        {
+            "name": "MEHMET KURTO\u011eLU",
+            "date": "1986-07-27"
+        },
+        {
+            "name": "SEFA BAKIR",
+            "date": "1998-07-27"
+        },
+        {
+            "name": "MEHMET \u015eA\u015eMAZ",
+            "date": "1981-07-30"
+        },
+        {
+            "name": "MUSTAFA ATLI",
+            "date": "1984-08-01"
+        },
+        {
+            "name": "ERDAL BA\u015eOCAK",
+            "date": "1974-08-03"
+        },
+        {
+            "name": "SAL\u0130H \u0130LHAN",
+            "date": "1992-08-05"
+        },
+        {
+            "name": "ABDULLAH DAYIBA\u015eI",
+            "date": "1988-08-08"
+        },
+        {
+            "name": "\u00c7A\u011eLAR YILDIRIM",
+            "date": "1992-08-16"
+        },
+        {
+            "name": "S\u00dcLEYMAN UZEL",
+            "date": "1982-08-19"
+        },
+        {
+            "name": "MEHMET DEN\u0130Z",
+            "date": "1993-08-23"
+        },
+        {
+            "name": "KAD\u0130R AYDIN",
+            "date": "1971-08-27"
+        },
+        {
+            "name": "MUHAMMET AL\u0130 ER",
+            "date": "1990-08-27"
+        },
+        {
+            "name": "H\u00dcSEY\u0130N TEPE",
+            "date": "1995-09-10"
+        },
+        {
+            "name": "\u00dcM\u0130T KARASU",
+            "date": "1989-09-10"
+        },
+        {
+            "name": "MUSTAFA UZER",
+            "date": "1991-09-12"
+        },
+        {
+            "name": "AL\u0130CAN POLAT",
+            "date": "1994-09-13"
+        },
+        {
+            "name": "KARAN\u0130 G\u00d6Z\u00dcTOK",
+            "date": "1984-09-20"
+        },
+        {
+            "name": "AHMET CAN UYSAL",
+            "date": "1996-09-22"
+        },
+        {
+            "name": "HASAN DA\u011eLAR",
+            "date": "1993-10-01"
+        },
+        {
+            "name": "YUNUS EMRE KARAKOYUN",
+            "date": "2004-10-08"
+        },
+        {
+            "name": "CUMAL\u0130 MERT \u00d6ZGEN",
+            "date": "1995-10-09"
+        },
+        {
+            "name": "H\u00dcSEY\u0130N TOPALO\u011eLU",
+            "date": "1986-10-09"
+        },
+        {
+            "name": "HAL\u0130T DEM\u0130R",
+            "date": "1991-10-13"
+        },
+        {
+            "name": "HASAN H\u00dcSEY\u0130N \u00d6NER",
+            "date": "1979-10-30"
+        },
+        {
+            "name": "MEHMET AL\u0130 VATANSEVER",
+            "date": "1975-11-07"
+        },
+        {
+            "name": "ERHAN \u00c7UBUK\u00c7U",
+            "date": "1983-11-08"
+        },
+        {
+            "name": "FAT\u0130H ACAR",
+            "date": "1984-12-08"
+        },
+        {
+            "name": "H\u00dcSEY\u0130N OLGUN",
+            "date": "2001-12-08"
+        },
+        {
+            "name": "\u0130LKER GAR\u0130P KI\u015e",
+            "date": "1981-12-08"
+        },
+        {
+            "name": "SERKAN TO\u011eAY",
+            "date": "1980-12-12"
+        },
+        {
+            "name": "MUHAMMED YILMAZ",
+            "date": "1985-12-13"
+        },
+        {
+            "name": "SEDAT AYMUTLU",
+            "date": "1992-12-13"
+        },
+        {
+            "name": "M\u00dcM\u0130N AVCI",
+            "date": "1970-12-20"
+        },
+        {
+            "name": "OKAN KIVRAKDAL",
+            "date": "2024-12-28"
+        },
+        {
+            "name": "HAKAN YILMAZ",
+            "date": "1990-12-30"
+        }
+    ]
+}

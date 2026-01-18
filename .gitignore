@@ -1,0 +1,30 @@
+# Build artifacts
+dist_zip/
+backend/dist/
+backend/build/
+frontend/out/
+frontend/.next/
+frontend/node_modules/
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
